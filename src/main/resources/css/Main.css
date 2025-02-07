@@ -1,0 +1,13 @@
+#pane {
+    -fx-background-image: url(../images/TicBackgroundImage.jpg);
+    -fx-background-repeat: stretch;
+    -fx-background-position: bottom;
+    -fx-background-size: 100% 90%;
+}
+.button-tictac {
+    -fx-background-color: transparent; /* Keep background transparent */
+    -fx-border-color: black; /* Optional: add a border */
+    -fx-border-width: 2px; /* Optional: set border width */
+    -fx-font-size: 24px; /* Font size for button text */
+    -fx-text-fill: white; /* Change text color */
+}
